@@ -2,7 +2,7 @@
 
 Source code for https://github.com/sportnoah14/Space_Invaders_EC327
 
-Instructions to download and play the game:
+## Instructions to Download and Play this Game
 
 1. Git clone all the files from Space_Invaders_EC327_Source repository from GitHub
 
