@@ -13,3 +13,5 @@ Instructions to download and play the game:
 4. Unity will open the game. 
 
 5. In Unity, click "Game", then click the Play button.
+
+6. How to play: Use arrows keys to move and spacebar to shoot laser.
