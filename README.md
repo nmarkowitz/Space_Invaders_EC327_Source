@@ -6,7 +6,7 @@ Source code for https://github.com/sportnoah14/Space_Invaders_EC327
 
 1. Git clone all the files from Space_Invaders_EC327_Source repository from GitHub
 
-2. Download Unity game engine
+2. Download Unity game engine at https://unity.com/download 
 
 3. In the "Space_Invaders_EC327_Source" folder, go to "Assets", then go to "Scenes", and then click "SpaceInvaders.unity"
 
